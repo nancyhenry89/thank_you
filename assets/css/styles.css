@@ -50,3 +50,14 @@
     margin-top: 37px;
     margin-bottom: 2px;
 }
+
+@media screen and (max-width:768px){
+    .popup {
+        max-width: 95%;
+        padding: 20px 10px;
+    }
+    
+    .popup p {
+        padding: 0;
+    }
+}
